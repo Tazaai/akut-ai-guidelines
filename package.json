@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "mermaid": "^11.5.0"
+  }
+}

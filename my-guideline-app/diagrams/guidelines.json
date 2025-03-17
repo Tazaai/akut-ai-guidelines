@@ -1,0 +1,7 @@
+{
+  "guidelines": [
+    { "id": 1, "name": "Acute Coronary Syndrome", "category": "Cardiology" },
+    { "id": 2, "name": "Pulmonary Embolism", "category": "Cardiology" },
+    { "id": 3, "name": "Stroke", "category": "Neurology" }
+  ]
+}
